@@ -17,6 +17,5 @@ This is a basic Spring Boot web app that:
 - Lombok (boilerplate reduction)
 - IntelliJ IDEA (development environment)
 - Git & GitHub (version control and hosting)
-
-https://github.com/your-username/FirstSPRING_FRAMEWORK-APP_AYA_MALOUM/raw/main/screenshot1.png
-https://github.com/your-username/FirstSPRING_FRAMEWORK-APP_AYA_MALOUM/raw/main/screenshot2.png
+ ![Screenshot 1](https://github.com/AyaMaloum/FirstSPRING_FRAMEWORK-APP_AYA_MALOUM/raw/main/screenshot1.png)
+![Screenshot 2](https://github.com/AyaMaloum/FirstSPRING_FRAMEWORK-APP_AYA_MALOUM/raw/main/screenshot2.png)
