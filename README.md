@@ -19,8 +19,6 @@ This is a basic Spring Boot web app that:
 - Git & GitHub (version control and hosting)
 
 
-# FirstSPRING_FRAMEWORK - APP_AYA_MALOUM
-
 ## 📸 Screenshots
 
 ### Application Running
