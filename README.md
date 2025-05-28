@@ -19,12 +19,3 @@ This is a basic Spring Boot web app that:
 - Git & GitHub (version control and hosting)
 
 
-## 📸 Screenshots
-
-### Application Running
-<img src="https://raw.githubusercontent.com/AyaMaloum/FirstSPRING_FRAMEWORK-APP_AYA_MALOUM/main/screenshot1.png" width="500">
-
-### Project Structure
-<img src="https://raw.githubusercontent.com/AyaMaloum/FirstSPRING_FRAMEWORK-APP_AYA_MALOUM/main/screenshot2.png" width="500">
-
----
