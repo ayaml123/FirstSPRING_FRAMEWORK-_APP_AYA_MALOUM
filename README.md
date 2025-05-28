@@ -18,5 +18,5 @@ This is a basic Spring Boot web app that:
 - IntelliJ IDEA (development environment)
 - Git & GitHub (version control and hosting)
 
- !(App Screenshots)(screenshots/screenshot1.png)
-  !(App Screenshots)(screenshots/screenshot2.png)
+ ![App Screenshots](screenshots/screenshot1.png)
+  ![App Screenshots](screenshots/screenshot2.png)
